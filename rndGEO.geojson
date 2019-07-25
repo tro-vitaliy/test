@@ -1,0 +1,34 @@
+﻿{
+"type": "FeatureCollection",
+"features": [
+[
+{
+"type": "Feature",
+"geometry": {
+"type": "LineString",
+"coordinates": [
+[
+47.22387587077052,
+39.696135392353924
+],
+[
+47.223494888687533,
+39.696297665999182
+],
+[
+47.223362412244704,
+39.696366062329083
+]
+]
+},
+"options": {
+"strokeColor": "#0080F4",
+"strokeWidth": 4,
+"fillColor": "#0080F4",
+"balloon": "{\"StreetName\":\"Доломановский переулок\",\"HouseNum\":56,\"ParkingName\":\"Городская парковка №1082\",\"TotalSpaces\":7,\"FreeSpaces\":1,\"SpacesForDisabled\":null}",
+"imageUrls": "[]"
+}
+}
+]
+]
+}
